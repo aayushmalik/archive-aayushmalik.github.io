@@ -1,0 +1,1 @@
+This is the repository for my work. I used a [Bootstrap 5 template](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/download/) for this work. It was a very detailed template with lots of options and customisations, so I edited it myself for the sections I needed. For any questions, reach out to me at chaayushmalik[@]gmail[.]com
